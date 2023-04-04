@@ -1,4 +1,4 @@
-# Frontend Mentor - Results summary component solution
+# Frontend Mentor - FAQ accordion card
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
@@ -14,7 +14,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Live Site URL: [Product Preview Card](https://jezzex-product-preview-card.netlify.app/)
+- Live Site URL: [FAQ accordion card](jezzex-faq-accordion-card.netlify.app)
 
 ### Built with
 
