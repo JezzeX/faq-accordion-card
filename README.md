@@ -14,7 +14,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [FAQ accordion card](jezzex-faq-accordion-card.netlify.app)
+- Live Site URL: [FAQ accordion card](https://jezzex-faq-accordion-card.netlify.app)
 
 ### Built with
 
